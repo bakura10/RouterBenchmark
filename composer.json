@@ -12,6 +12,7 @@
     "require": {
         "athletic/athletic": "v0.1.7",
         "dasprid/dash": "dev-master",
+        "zendframework/zendframework1": "1.12.*",
         "zendframework/zend-modulemanager": "~2.2.5",
         "zendframework/zend-mvc": "~2.2.5",
         "symfony/routing": "2.5.*@dev",
